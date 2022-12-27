@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## I'm JulCode.
+## I'm Julian Vivas.
 
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Informtic Engineering at university institution of envigado.
+- 🎓 &nbsp; Studying Informtic Engineering at Institución Universitaria de Envigado.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -42,9 +42,9 @@
 
 ## My Stats
 <p>
-<a href="https://github.com/julcode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julcode&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julcode&theme=radical&layout=compact&exclude_lang=java+r" />
+<a href="https://github.com/juvidev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juvidev&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juvidev&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
@@ -52,5 +52,5 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://julcode.github.io/web/"><img src="https://img.shields.io/badge/-julcode-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/julian-vivas-estrada-aa2680217/"><img src="https://img.shields.io/badge/-Julian%20Vivas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://juvidev.github.io/web/"><img src="https://img.shields.io/badge/-julcode-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juvidev/"><img src="https://img.shields.io/badge/-Julian%20Vivas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
