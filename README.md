@@ -52,5 +52,5 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://juvidev.github.io/web/"><img src="https://img.shields.io/badge/-julcode-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://juvidev.github.io/web/"><img src="https://img.shields.io/badge/-JuviDev-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/juvidev/"><img src="https://img.shields.io/badge/-Julian%20Vivas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
