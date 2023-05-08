@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Informtic Engineering at Institución Universitaria de Envigado.
 
-
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
@@ -40,17 +39,14 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-## My Stats
-<p>
-<a href="https://github.com/juvidev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juvidev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juvidev&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=JuviDev&theme=dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JuviDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-##  🤝🏻 &nbsp;Connect with Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juvidev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juvidev) 
 
-<p align="center">
-<a href="https://juvidev.github.io/web/"><img src="https://img.shields.io/badge/-JuviDev-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/juvidev/"><img src="https://img.shields.io/badge/-Julian%20Vivas-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
